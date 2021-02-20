@@ -38,9 +38,11 @@
 <br />
 <br />
 
-<img align="left" alt="bdsumon4u's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bdsumon4u&show_icons=true&hide_border=true" />
+### My Github:
 
-<br />
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u)](https://github.com/bdsumon4u)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&layout=compact)](https://github.com/bdsumon4u)
+
 
 [website]: https://hotashplanet.com
 [course]: http://hotashplanet.com
