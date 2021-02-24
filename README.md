@@ -40,8 +40,8 @@
 
 ### My Github:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bdsumon4u)](https://github.com/bdsumon4u)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdsumon4u&layout=compact)](https://github.com/bdsumon4u)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=hotashplanet)](https://github.com/hotashplanet)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotashplanet&layout=compact)](https://github.com/hotashplanet)
 
 
 [website]: https://hotashplanet.com
